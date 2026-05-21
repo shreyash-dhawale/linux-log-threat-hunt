@@ -1,0 +1,2 @@
+timestamp,host,event_type,username,source_ip,raw_line
+May 20 10:15:25,kali-lab,accepted_password,user02,192.0.2.10,May 20 10:15:25 kali-lab sshd[1201]: Accepted password for user02 from 192.0.2.10 port 54321 ssh2

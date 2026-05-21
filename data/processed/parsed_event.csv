@@ -1,0 +1,9 @@
+timestamp,host,event_type,username,source_ip,raw_line
+May 20 10:15:01,kali-lab,failed_password,admin,192.0.2.10,May 20 10:15:01 kali-lab sshd[1201]: Failed password for invalid user admin from 192.0.2.10 port 54321 ssh2
+May 20 10:15:05,kali-lab,failed_password,test,192.0.2.10,May 20 10:15:05 kali-lab sshd[1201]: Failed password for invalid user test from 192.0.2.10 port 54321 ssh2
+May 20 10:15:10,kali-lab,failed_password,user01,192.0.2.10,May 20 10:15:10 kali-lab sshd[1201]: Failed password for user01 from 192.0.2.10 port 54321 ssh2
+May 20 10:15:18,kali-lab,failed_password,user02,192.0.2.10,May 20 10:15:18 kali-lab sshd[1201]: Failed password for user02 from 192.0.2.10 port 54321 ssh2
+May 20 10:15:25,kali-lab,accepted_password,user02,192.0.2.10,May 20 10:15:25 kali-lab sshd[1201]: Accepted password for user02 from 192.0.2.10 port 54321 ssh2
+May 20 10:20:11,kali-lab,failed_password,root,198.51.100.25,May 20 10:20:11 kali-lab sshd[1202]: Failed password for invalid user root from 198.51.100.25 port 42424 ssh2
+May 20 10:20:15,kali-lab,failed_password,guest,198.51.100.25,May 20 10:20:15 kali-lab sshd[1202]: Failed password for invalid user guest from 198.51.100.25 port 42424 ssh2
+May 20 10:20:30,kali-lab,accepted_password,user03,198.51.100.25,May 20 10:20:30 kali-lab sshd[1202]: Accepted password for user03 from 198.51.100.25 port 42424 ssh2
