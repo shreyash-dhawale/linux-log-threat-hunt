@@ -1,7 +1,7 @@
 # Linux Log Threat Hunting
 
 ## Overview
-A A threat hunting lab simulating SSH brute-force detection using Python-based log analysis and structured incident reporting from a sample auth.log file. The project uses manual CLI triage and Python log parsing to identify repeated failed logins, suspicious IPs, invalid-user attempts, and successful logins after repeated failures.
+A threat hunting lab simulating SSH brute-force detection using Python-based log analysis and structured incident reporting from a sample auth.log file. The project uses manual CLI triage and Python log parsing to identify repeated failed logins, suspicious IPs, invalid-user attempts, and successful logins after repeated failures.
 
 ## Tools
 - Kali Linux
